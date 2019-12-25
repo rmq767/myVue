@@ -1,3 +1,8 @@
+## 项目演示地址
+[demo] (https://rmq767.github.io/myVue/dist/index.html#/home)
+### 这是一个关于vue的电商小项目，是我入门vue的第一步
+
+# 学习笔记
 ## [开源协议之间的区别] (https://www.zhihu.com/question/19568896?sort=created)
 
 ## 用（传统方式）命令行把修改过后的代码上传到码云？
